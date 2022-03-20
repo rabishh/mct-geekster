@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mct-geekster/static/css/main.37b06f18.css",
+    "main.js": "/mct-geekster/static/js/main.de4d5402.js",
+    "index.html": "/mct-geekster/index.html",
+    "main.37b06f18.css.map": "/mct-geekster/static/css/main.37b06f18.css.map",
+    "main.de4d5402.js.map": "/mct-geekster/static/js/main.de4d5402.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37b06f18.css",
+    "static/js/main.de4d5402.js"
+  ]
+}
